@@ -123,3 +123,9 @@ tensorflow_code
 
 # Models
 models
+
+# Output files
+output
+
+# Input files
+data
